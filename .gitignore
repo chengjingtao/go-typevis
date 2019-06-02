@@ -1,0 +1,7 @@
+bin
+
+# vim swap files
+*.swp
+.idea
+go-typevis
+*.dot
